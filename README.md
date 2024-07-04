@@ -22,7 +22,7 @@
 
 —> Deploy the image using Docker
 
-—> Kubernetes master and slave setup on Ubuntu (20.04)
+—> Kubernetes master and slave setup on Ubuntu
 
 —> Access the Netflix app on the Browser.
 
