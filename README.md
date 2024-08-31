@@ -1,4 +1,7 @@
 # Netflix
+
+
+
 # Netflix Clone CI/CD with Monitoring | Jenkins | Docker| Kubernetes| Monitoring | DevSecOps
 —> Launch an Ubuntu T2 Large Instance
 
